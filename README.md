@@ -1,4 +1,4 @@
 # new-Project-
 this is my new project for learning Git
 <br>
-Author sanju Kushwaha 
+Author  - (sanju Srk)  
